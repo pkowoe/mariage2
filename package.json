@@ -1,7 +1,9 @@
 {
-  "name": "oxbride-atelier",
-  "private": true,
-  "version": "0.0.0",
+  "name": "mariage2",
+  "version": "1.0.0",
+  "description": "Application web mariage2 par Henock KOWOE / damLab",
+  "author": "Henock KOWOE (damLab)",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",

@@ -217,7 +217,7 @@ export const SLIDES: SlideData[] = [
       matiere: 'Dentelle de Calais-Caudry & mohair bleu nuit Dormeuil',
       confection: 'Étalonnage des silhouettes en salon privé',
       delai: 'Sur-mesure duo · 4 à 5 mois',
-      disponibilite: 'Duo Signature OXBride Atelier',
+      disponibilite: 'Duo Signature Atelier damLab',
     },
   },
 
@@ -495,7 +495,7 @@ export default function App() {
           aria-hidden="true"
         />
 
-        {/* 3. Top-left brand label "OXBRIDE ATELIER" */}
+        {/* 3. Top-left brand label "ATELIER DAMLAB" */}
         <header
           className="absolute top-5 sm:top-7 left-4 sm:left-10 flex items-center gap-3 sm:gap-4"
           style={{
@@ -509,10 +509,10 @@ export default function App() {
                 textShadow: '0 2px 10px rgba(0,0,0,0.3)',
               }}
             >
-              OXBRIDE ATELIER
+              ATELIER DAMLAB
             </span>
             <span className="text-[10px] font-medium tracking-[0.22em] text-white/75 uppercase">
-              DAMLAB · HAUTE COUTURE NUPTIALE
+              HAUTE COUTURE NUPTIALE
             </span>
           </div>
 

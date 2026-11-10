@@ -1,6 +1,6 @@
-# mariage2 — OXBride Atelier
+# mariage2
 
-Application web immersive dédiée à la présentation haute couture nuptiale, confection sur-mesure et joaillerie.
+Application web immersive dédiée à la présentation haute couture nuptiale, confection sur-mesure et joaillerie de l'Atelier damLab.
 
 ---
 
